@@ -1,4 +1,4 @@
-## Hello Folks! <img src="https://media.tenor.com/VuWMeLXobM0AAAAi/iroha-blue-archive.gif" width="25"> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffarizirza"><img align = "right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23d85c7c"/></a>
+## Hello Folks! <img src="https://media.tenor.com/VuWMeLXobM0AAAAi/iroha-blue-archive.gif" width="30" height="25"> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffarizirza"><img align = "right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23d85c7c"/></a>
 <a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height=355/></a>
 <p align="center">
 </p>
