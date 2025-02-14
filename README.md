@@ -1,5 +1,5 @@
 ## Hello Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height=380/></a>
+<a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height=355/></a>
 <p align="center">
 </p>
 
@@ -31,9 +31,9 @@ I am **Muhammad Irza Alfarizi**, usually people call me by **Irza**, a recent co
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img align="right" width="40%" src="https://media1.tenor.com/m/CsnqaVZnb6wAAAAd/iroha-blue-archive.gif"/>
-<a href="https://github.com/farizirza"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=farizirza&theme=radical&show_icons=true&hide_border=true&count_private=true"></a>
-<a href="https://github.com/farizirza"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizirza&theme=radical&show_icons=true&hide_border=true&layout=compact"></a>
+<img align="right" width="44%" src="https://media1.tenor.com/m/CsnqaVZnb6wAAAAd/iroha-blue-archive.gif"/>
+<a href="https://github.com/farizirza"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=farizirza&theme=radical&show_icons=true&hide_border=true&count_private=true"></a>
+<a href="https://github.com/farizirza"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizirza&theme=radical&show_icons=true&hide_border=true&layout=compact"></a>
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffarizirza"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23d85c7c" /></a>
