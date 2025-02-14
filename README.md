@@ -1,5 +1,5 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-[Banner](https://github.com/farizirza/farizirza/blob/main/irohabanner.png?raw=true)
+[Banner](irohabanner.png)
 
 I am Muhammad Irza Alfarizi, usually people call me by Irza, a recent computer science undergraduate from [University of Gunadarma](https://www.gunadarma.ac.id/). I am a Tech enthusiast & 3D Blender Modeler. Feel free to connect with me here :
 
