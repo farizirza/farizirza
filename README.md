@@ -1,8 +1,8 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Muhammad Irza Alfarizi, usually people call me by Irza, a recent computer science undergraduate from [University of Gunadarma](https://www.gunadarma.ac.id/). I am a Tech enthusiast & 3D Blender Modeler. Feel free to connect with me here :
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariz_irza)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariz_irza)
 
 ## ⚡ Programming Language
 
