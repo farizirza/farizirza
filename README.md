@@ -31,7 +31,7 @@ I am Muhammad Irza Alfarizi, usually people call me by Irza, a recent computer s
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img align="right" width="35%" src="https://media1.tenor.com/m/CsnqaVZnb6wAAAAd/iroha-blue-archive.gif"/>
+<img align="right" width="25%" src="https://media1.tenor.com/m/CsnqaVZnb6wAAAAd/iroha-blue-archive.gif"/>
 <a href="https://github.com/farizirza"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=farizirza&count_private=true&show_icons=true&include_all_commits=true"></a>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555)
