@@ -9,6 +9,7 @@ I am Muhammad Irza Alfarizi, usually people call me by Irza, a recent computer s
 ## ⚡ Programming Language
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white])
 
 ## ⚡ Web Development
 
