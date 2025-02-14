@@ -21,4 +21,4 @@ I am Muhammad Irza Alfarizi, usually people call me by Irza, a recent computer s
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=farizirza&count_private=true&show_icons=true&include_all_commits=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=farizirza)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23555555)
