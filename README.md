@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-I am **Muhammad Irza Alfarizi**, usually people call me by **Irza**, a recent computer science undergraduate from [University of Gunadarma](https://www.gunadarma.ac.id/). I am a Tech enthusiast & 3D Blender Modeler. Feel free to connect with me here :
+I am **Muhammad Irza Alfarizi**, usually people call me by **Irza**, a computer science undergraduate from [University of Gunadarma](https://www.gunadarma.ac.id/). I am a Tech enthusiast & 3D Blender Modeler. Feel free to connect with me here :
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fariz_irza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farizirza/)
