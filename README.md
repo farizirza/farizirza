@@ -1,4 +1,4 @@
-## Hello Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hello Folks! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffarizirza"><img align = "right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23d85c7c"/></a>
 <a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height=355/></a>
 <p align="center">
 </p>
@@ -33,5 +33,5 @@ I am **Muhammad Irza Alfarizi**, usually people call me by **Irza**, a recent co
 
 <img align="right" width="44%" src="https://media1.tenor.com/m/CsnqaVZnb6wAAAAd/iroha-blue-archive.gif"/>
 <a href="https://github.com/farizirza"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=farizirza&theme=dracula&show_icons=true&hide_border=true&count_private=true"></a>
-<a href="https://github.com/farizirza"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizirza&theme=dracula&show_icons=true&hide_border=true&layout=compact"></a><br>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffarizirza"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffarizirza&label=VISITORS&labelColor=%23d9e3f0&countColor=%23d85c7c"/></a>
+<a href="https://github.com/farizirza"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizirza&theme=dracula&show_icons=true&hide_border=true&layout=compact"></a>
+
