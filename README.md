@@ -1,5 +1,5 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height="50%"/></a>
+<a href=""><img src="https://i.imgur.com/ohtv29p.png" width="100%" height=10/></a>
 <p align="center">
 </p>
 
